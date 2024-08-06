@@ -1,0 +1,17 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    text-decoration: none;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #064635;
+}
+a{
+    text-decoration: none;
+    
+}
+#create-user-space{
+    padding-left: 10px;
+    padding-right: 10px;
+}
